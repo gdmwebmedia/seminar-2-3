@@ -1,0 +1,21 @@
+body * {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+input {
+    display: block;
+    height: 2rem;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+button {
+    height: 2rem;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    background-color: bisque;
+}
